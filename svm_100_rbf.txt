@@ -1,0 +1,49 @@
+Image Size (Pixel x Pixel), Accuracy (%)
+127, 32.708
+124, 37.216
+121, 37.634
+118, 37.973
+115, 37.700
+112, 37.882
+109, 40.968
+106, 41.089
+103, 40.998
+100, 42.209
+97, 41.301
+94, 42.027
+91, 41.997
+88, 41.936
+85, 42.421
+82, 39.274
+79, 40.877
+76, 39.818  
+73, 39.304
+70, 38.578
+67, 35.098
+64, 35.310
+61, 35.310
+58, 35.461
+
+Up until this point, it took 92 minutes to run the program.
+From here, it is impossible to scalify the images, since
+there are not enough gradient features after hogifying an image
+
+55, 
+52, 
+49, 
+46, 
+43, 
+40, 
+37, 
+34, 
+31, 
+28, 
+25, 
+22, 
+19, 
+16, 
+13, 
+10, 
+7, 
+4, 
+1, 
